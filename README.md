@@ -1,4 +1,4 @@
-## 🌿 Plant Disease Classification (Deep Learning)
+## 🌿 Plant Disease Classification
 
 A deep learning–based plant disease diagnosis system built using **PyTorch** and **EfficientNet-B0**, trained on the **PlantVillage dataset (38 classes)**.  
 The project includes **Grad-CAM** for visual interpretability and provides label mappings and disease metadata.
@@ -26,7 +26,7 @@ The project includes **Grad-CAM** for visual interpretability and provides label
 - Stage 1 — Train classifier head  
 - Stage 2 — Fine-tune full network  
 
-**Evaluation includes:**
+**Evaluation metrics includes:**
 - Accuracy  
 - F1-score  
 - Confusion Matrix  
