@@ -5,7 +5,7 @@ The project includes **Grad-CAM** for visual interpretability and provides label
 
 ---
 
-### 🔍 Key Features
+### Key Features
 
 - **EfficientNet-B0** transfer learning  
 - **38 plant disease classes**  
@@ -17,7 +17,7 @@ The project includes **Grad-CAM** for visual interpretability and provides label
 
 ---
 
-### 🧠 Model Overview
+### Model Overview
 
 - **Framework:** PyTorch  
 - **Backbone:** EfficientNet-B0 (pretrained on ImageNet)  
@@ -36,7 +36,7 @@ The project includes **Grad-CAM** for visual interpretability and provides label
 
 ---
 
-### 📘 Dataset
+### Dataset
 
 - **PlantVillage (Kaggle)**  
 - **38 classes** across multiple plant species  
